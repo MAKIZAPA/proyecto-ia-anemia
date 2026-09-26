@@ -241,7 +241,7 @@ print(f"Probabilidad de Anemia: {probabilidad * 100:.2f}%")
 - **Docente Asesor:** Dr. Ciro Rodríguez Rodríguez
 - **Institución:** Universidad Nacional Federico Villarreal (UNFV)
 - **Facultad:** Facultad de Ingeniería Electrónica e Informática (FIEI)
-- **Asignatura:** Inteligencia Artificial / Metodología de la Investigación Científica
+- **Asignatura:** Inteligencia Artificial
 - **Año:** 2026
 
 ### Reconocimientos y Fuentes de Datos
